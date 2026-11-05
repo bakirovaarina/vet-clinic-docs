@@ -1,0 +1,6 @@
+- [Главная](/)
+- [Начало работы](getting-started/)
+- [Питомцы](pets/)
+- [Запись на приём](appointments/)
+- [История посещений](appointments/history/)
+- [Профиль](profile/)
